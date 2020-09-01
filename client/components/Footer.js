@@ -21,7 +21,7 @@ export default props => {
                         <div className="footer__widget">
                             <h6>Useful Links</h6>
                             <ul>
-                                <li><a href="#">About Us</a></li>
+                                <li><a href="#">Sobre Nós</a></li>
                                 <li><a href="#">About Our Shop</a></li>
                                 <li><a href="#">Secure Shopping</a></li>
                                 <li><a href="#">Delivery infomation</a></li>
